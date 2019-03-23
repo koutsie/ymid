@@ -1,8 +1,4 @@
-# ymid
-A new type of Licence.
-<hr></hr><br>
-
-### You Must Install Debian GNU/Linux, Licence
+# You Must Install Debian GNU/Linux, Licence
 To redistribute this software (modified or unmodified) the User must comply with the following tasks:
 - Always comply with the LATEST VERSION (latest version being: https://github.com/koutsie/ymid) of The Licence.
 - Install*** the latest version of Debian GNU/Linux* possible (Either SID, Testing or Stable).
